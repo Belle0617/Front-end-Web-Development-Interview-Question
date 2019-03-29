@@ -53,8 +53,3 @@
 |11|[【web前端面试题整理08】说说最近几次面试（水）](http://www.cnblogs.com/yexiaochai/p/4366051.html)| [叶小钗](http://weibo.com/yiquinian)|面试|2015年03月30日|
 
 
----
-
-推荐下[阅乎](http://yuehu.io)这个阅读体验灰常好的网站，我在这里收集了很多前端方面比较好的文章。  
-**地址请戳：[菜鸟前端成长之路](http://yuehu.io/padding-me)**
-
